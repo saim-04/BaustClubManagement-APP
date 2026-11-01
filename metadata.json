@@ -1,0 +1,6 @@
+{
+  "name": "BAUST Club Management System",
+  "description": "Comprehensive university club management platform for BAUST students, club presidents, and ASW administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
